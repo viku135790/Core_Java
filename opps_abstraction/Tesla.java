@@ -4,7 +4,7 @@ package opps_abstraction;
  * https://www.linkedin.com/in/vikas-kumar-517994229/
  * */
 
-public class Tesla implements ElectricVehicle {
+public class Tesla extends ElectricVehicle {
 	
 	public void start() {
 		System.out.println("Start the tesla");
