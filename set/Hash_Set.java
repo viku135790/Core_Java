@@ -1,5 +1,5 @@
 package set;
-/*if any program is wrong then report on (viku135790@gmail.com);
+/*
 * Or u can mail your question (viku135790@gmail.com) */
 import java.util.HashSet;
 
@@ -20,7 +20,7 @@ public class Hash_Set {
 		for(Object o:hs) {
 			System.out.println(o);
 		}
-		//Object Stored object Acoording to Hashcod 
+		//Object Stored object Acoording to Hashcode
 	}
 
 }
