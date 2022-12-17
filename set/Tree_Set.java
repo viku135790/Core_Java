@@ -1,5 +1,5 @@
 package set;
-/*if any program is wrong then report on (viku135790@gmail.com);
+/*
 * Or u can mail your question (viku135790@gmail.com) */
 
 import java.util.TreeSet;
@@ -24,6 +24,8 @@ public class Tree_Set {
 		}
 		
 		//Object stored in increasing order
+		//duplicate are not allowed
+		//must be same type of data
 	}
 
 }
